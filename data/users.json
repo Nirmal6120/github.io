@@ -1,0 +1,33 @@
+{
+  "users" :
+          [
+            {
+              "DisplayName" : "Nirmal Patel",
+              "EmailAddress" : "nirmal@gmail.ca",
+              "Username" : "nirmalp",
+              "password" : "123456"
+            },
+
+            {
+              "DisplayName" : "het Patel",
+              "EmailAddress" : "het@gmamil.com",
+              "Username": "hetP",
+              "password": "password"
+            },
+
+            {
+              "DisplayName" : "jay Patel",
+              "EmailAddress" : "jay@gmamil.com",
+              "Username": "jayP",
+              "password": "789120"
+            }
+
+
+
+          ]
+
+
+
+
+
+}
